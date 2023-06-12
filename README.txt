@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Vitormalonyai
+- 👀 I’m interested in technology, programing and math
+- 🌱 I’m currently learning datascience and machine learning
+- 💞️ I want to create and expose my portfolio  
+- 📫 How to reach me: https://www.linkedin.com/in/vitor-malonyai-de-oliveira-7ba6b8141/
